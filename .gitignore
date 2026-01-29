@@ -2,3 +2,6 @@
 .import/
 export_presets.cfg
 *.tmp
+.assets
+assets/Screenshot 2024-11-28 222335.JPEG
+assets
