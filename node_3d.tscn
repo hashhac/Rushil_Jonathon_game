@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://mgp02mkor0at"]
+
+[node name="Node3D" type="Node3D" unique_id=1303189111]
+
+[node name="CharacterBody3D" type="CharacterBody3D" parent="." unique_id=1487278839]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="CharacterBody3D" unique_id=1467617559]
+
+[node name="Sprite3D" type="Sprite3D" parent="CharacterBody3D" unique_id=1274508945]
